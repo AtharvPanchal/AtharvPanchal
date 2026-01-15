@@ -1,7 +1,7 @@
 # Atharv Dattaram Panchal
 
-Aspiring **Full Stack Developer (Web & App)** with a strong foundation in **Java backend development**, database-driven applications, and growing experience in **Generative AI**.  
-Passionate about building real-world projects, writing clean code, and continuously improving engineering skills.
+Aspiring **Full Stack Developer (Web & App)** with a strong foundation in **Java backend development**, database-driven applications, and Growing Experience In **Generative AI**.  
+Passionate About Building Real-World Projects, Writing clean Code, and Continuously Improving Engineering Skills.
 
 ---
 
@@ -33,6 +33,7 @@ Passionate about building real-world projects, writing clean code, and continuou
 - Git & GitHub
 - MySQL Workbench
 - VS Code
+- PyCharm
 
 ### Concepts
 - MVC-style separation of concerns
