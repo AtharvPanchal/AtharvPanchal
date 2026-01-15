@@ -9,9 +9,9 @@ Passionate About Building Real-World Projects, Writing clean Code, and Continuou
 
 - Diploma Student in **Computer Engineering**
 - Backend-focused developer with interest in scalable systems
-- Comfortable with **Java, JDBC, SQL, and REST-oriented thinking**
-- Exploring **Generative AI** and modern development workflows
-- Strong believer in **learning by building projects**
+- Comfortable with **Java, JDBC, SQL, and REST-Oriented Thinking**
+- Exploring **Generative AI** and Modern Development Workflows
+- Strong Believer in **Learning by Building Projects**
 
 ---
 
